@@ -104,3 +104,29 @@
     width: 60px;
     height: 60px;
 }
+.Last-container{
+    background-color: #424141;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: whitesmoke;
+}
+.Small-div-Box{
+    width: 200px;
+    height: 35vh;
+    margin-top: 30px;
+}
+.iteams{
+    list-style: none;
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.footer-content{
+    background-color:#424141;;
+    color: white;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
