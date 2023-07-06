@@ -1,0 +1,103 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.first-conatainer{
+    background-color: #424141;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.logo_pic{
+    width: 110px;
+}
+.logo_image{
+    margin-top: 10px;
+    padding: 10px;
+}
+.menus{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.iteam{
+    list-style: none;
+    margin: 10px;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.iteam:hover{
+    color: greenyellow;
+}
+.Second-container{
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    align-items: center;
+    background-image: url("images/background.png"),
+    linear-gradient(45deg,aqua,tomato);
+    
+}
+.Banner-pic{
+    width: 350px;
+}
+.title{
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  
+}
+.discription{
+    margin-top: 15px;
+}
+.btn{
+    color: whitesmoke;
+    background-color: red;
+    padding: 15px;
+    margin-top: 15px;
+    border: none;
+    
+}
+.Third-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: black;
+
+}
+.Big-title{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.Fourth-container{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.SmallBox{
+    width: 250px;
+    height: 300px;
+    background-color: black;
+    border-radius: 5px solid gray;
+
+}
+.SmallBoxContent{
+    margin: 10px;
+    padding: 40px;
+}
+.icons{
+    margin-left: 80px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding: 10px;
+    
+}
+.icons-pic{
+    width: 60px;
+    height: 60px;
+}
